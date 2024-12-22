@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825888125158",
+    "project_id": "nastasiastill-81f4b",
+    "storage_bucket": "nastasiastill-81f4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825888125158:android:8360d021e856e9c5f00b27",
+        "android_client_info": {
+          "package_name": "pro.natalee.nastasia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3y6i4-5EU_d0_-vwlt_sWWrmFtjwLwI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
