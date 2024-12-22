@@ -73,7 +73,7 @@ dependencies:
 
   flutter_paystack:
     git:
-      url: https://github.com/mdkhaledhassan/flutter_paystack.git
+      url: https://github.com/Katya-Solutions-LLC/flutter_paystack.git
 
 dependency_overrides:
   google_maps_place_picker_mb: ^3.1.0
