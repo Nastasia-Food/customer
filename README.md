@@ -2,9 +2,9 @@
 
 Welcome to the **Nastasia Food Customer** repository! This repository serves as the core application for managing customer-related functionalities within the Nastasia Food ecosystem.
 
-https://api.codemagic.io/apps/676888b625a66bb8e9941b2f/676888b625a66bb8e9941b2e/status_badge.svg
+https://api.codemagic.io/apps/6798f170ecde2154e13ed295/6798f170ecde2154e13ed294/status_badge.svg
 
-[![Codemagic build status](https://api.codemagic.io/apps/676888b625a66bb8e9941b2f/676888b625a66bb8e9941b2e/status_badge.svg)](https://codemagic.io/app/676888b625a66bb8e9941b2f/676888b625a66bb8e9941b2e/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/6798f170ecde2154e13ed295/6798f170ecde2154e13ed294/status_badge.svg)](https://codemagic.io/app/6798f170ecde2154e13ed295/6798f170ecde2154e13ed294/latest_build)
 
 ## Features
 
