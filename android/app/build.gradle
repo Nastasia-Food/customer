@@ -39,7 +39,9 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+
+        namespace "pro.natalee.nastasia"
+
         applicationId "pro.natalee.nastasia"
         minSdkVersion 21
         targetSdkVersion 34
